@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Kedai Makan Adam Misdi",
+    "slug": "kedai-makan-adam-misdi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#fff7ed" } }
+  }
+}
